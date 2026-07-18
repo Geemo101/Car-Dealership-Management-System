@@ -55,4 +55,6 @@ This combination of structures and algorithms is used to manage collection sizes
 1.  **Clone the repository** (or download the source files):
     ```bash
     git clone https://github.com/Geemo101/Car-Dealership-Management-System.git
-    cd DealershipManagementSystem
+    cd Car-Dealership-Management-System
+
+
