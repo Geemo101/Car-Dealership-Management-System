@@ -63,8 +63,8 @@ This combination of structures and algorithms is used to manage collection sizes
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/DealershipManagementSystem.git
-   cd DealershipManagementSystem
+   git clone https://github.com/Geemo101/Car-Dealership-Management-System.git
+   cd Car-Dealership-Management-System
    ```
 
 2. **Compile all Java files**
